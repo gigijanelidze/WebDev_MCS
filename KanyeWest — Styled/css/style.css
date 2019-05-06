@@ -1,5 +1,5 @@
 @import url(reset.css)
-@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans|Prata');
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans|IBM+Plex+Serif');
 
 .menu ul {
 	text-align: top left;
@@ -30,7 +30,7 @@
 
 .begining h2 {
 	color:black;
-    font-family: 'IBM Plex Sans', sans-serif;
+    font-family: 'IBM Plex Serif', serif;
     font-size: 32px;
     font-weight: bold;
     }
@@ -61,7 +61,7 @@
 
 .firstalbum p {
 	color:black;
-    font-family: 'IBM Plex Sans', sans-serif;
+    font-family: 'IBM Plex Serif', serif;
     font-size: 18px;
     line-height: 28px;
     font-weight: normal;
@@ -76,7 +76,7 @@
 
 .yeezus p {
 	color:black;
-    font-family: 'IBM Plex Sans', sans-serif;
+    font-family: 'IBM Plex Serif', serif;
     font-size: 18px;
     line-height: 28px;
     font-weight: normal;
