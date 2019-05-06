@@ -1,0 +1,99 @@
+@import url(reset.css)
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans|Prata');
+
+.menu ul {
+	text-align: top left;
+	font-size: 20px;
+	background: yellow;
+}
+
+.menu li {
+		display: inline;
+}
+
+.mainimage {
+	width: 1040px;
+	height: 600px;
+	background-image: url(../img/mainphoto.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;	
+}
+
+.header h1{
+	color:black;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 50px;
+    font-weight: bolder;
+    text-align: center;
+    } 
+
+.begining h2 {
+	color:black;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    }
+
+.begining p {
+	color:black;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: normal;
+}
+
+.image {
+	width: 1040px;
+	height: 600px;
+	background-image: url(../img/photo2.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.firstalbum h2 {
+	color:black;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    }
+
+.firstalbum p {
+	color:black;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: normal;
+}
+
+.yeezus h2 {
+	color:black;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.yeezus p {
+	color:black;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: normal;
+}
+
+.links h2 {
+	color:black;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    }
+
+.links ul {
+	color:black;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+
