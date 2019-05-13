@@ -9,10 +9,9 @@ background-color: blue;
 padding: 10px;
 position: fixed;
 font-family: 'IBM Plex', sans-serif;
-left: 0px;
-top: 0px;
 margin-top: 0px;
-margin-bottom: 30px;
+top:0px;
+left:0px;
 }
 
 
@@ -22,30 +21,31 @@ div {
     width: 200px;
     vertical-align: top;
     margin: 25px;
+    margin-top: 80px;
 }
 
 .left {
-    border: 1px solid grey;
-    padding: 15px;
-    border-radius: 10px;
-    position: relative;
-    top: 50px;
+border: 1px solid grey;
+padding: 15px;
+border-radius: 10px;
+position: static;
+top: 50px;
 }
 
 .center {
-    border: 1px solid grey;
-    padding: 15px;
-    border-radius: 10px;
-    position: relative;
-    top: 50px;
+border: 1px solid grey;
+padding: 15px;
+border-radius: 10px;
+position: static;
+top: 50px;
 }
 
 .right {
-    border: 1px solid grey;
-    padding: 15px;
-    border-radius: 10px;
-    position: relative;
-    top: 50px;
+border: 1px solid grey;
+padding: 15px;
+border-radius: 10px;
+position: static;
+top: 50px;
 }
 
 .footer {
